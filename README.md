@@ -24,6 +24,3 @@ With a dedication that verges on obsession, I am deeply passionate about **Geosp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Solomon_Kipkirui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40Rangosolo-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)  
 📧 **Email:** kipkirui.solomon44@gmail.com  
-
-### ⚡ Fun Fact  
-> "I can find my way with **geospatial tech** even if I'm lost in code!"  
