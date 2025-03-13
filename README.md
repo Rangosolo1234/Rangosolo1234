@@ -19,7 +19,6 @@ With a dedication that verges on obsession, I am deeply passionate about **Geosp
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangosolo1234&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangosolo1234&layout=compact&theme=radical)  
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Solomon_Kipkirui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
