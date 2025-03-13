@@ -1,3 +1,4 @@
+<div align="center" style="background-color:#0d1117; color:white; padding:20px; border-radius:10px;">
 ## 👋 Hey there! I'm Solomon Kipkirui  
 
 🚀 **Geospatialist | Software Engineer**  
