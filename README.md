@@ -12,7 +12,7 @@ With a dedication that verges on obsession, I am deeply passionate about **Geosp
 - 🔬 **Researching:** The impact of geospatial tech on social media systems  
 
 ### 🚀 Projects  
-🔹 **[Product api django backend and vuejs frontend](https://github.com/)** – Assigns parking spaces based on traffic monitoring  
+🔹 **[Product api django backend and vuejs frontend](https://github.com/taifa_Products_api)** – Assigns parking spaces based on traffic monitoring  
 🔹 **[GeoDjango Traffic & Parking System](https://github.com/your-repo)** – Assigns parking spaces based on traffic monitoring  
 🔹 **[Tech Squad App](https://github.com/your-repo)** – A social media platform for tech professionals with geospatial ranking  
 🔹 **[Django Web GIS for Law Firms](https://github.com/your-repo)** – Crime scene mapping and legal data management  
