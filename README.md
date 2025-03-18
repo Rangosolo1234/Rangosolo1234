@@ -13,6 +13,7 @@ With a dedication that verges on obsession, I am deeply passionate about **Geosp
 
 ### 🚀 Projects  
 🔹 **[Product api django backend and vuejs frontend](https://github.com/Rangosolo1234/taifa_Products_api)** – Products api for taifa orbit online shop
+
 🔹 **[GeoDjango Traffic & Parking System](https://github.com/your-repo)** – Assigns parking spaces based on traffic monitoring  
 🔹 **[Tech Squad App](https://github.com/your-repo)** – A social media platform for tech professionals with geospatial ranking  
 🔹 **[Django Web GIS for Law Firms](https://github.com/your-repo)** – Crime scene mapping and legal data management  
