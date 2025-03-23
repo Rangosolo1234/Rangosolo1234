@@ -4,7 +4,7 @@
 🎓 **Dekut-trained Geospatialist & ALX Certified Software Engineer**  
 
 With a dedication that verges on obsession, I am deeply passionate about **Geospatial Technology** and **Software Development**. My focus is on integrating geospatial solutions into software applications to solve real-world problems.  
-
+ 
 ### 💡 What I Do 
 - 🌍 **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
 - 💻 **Software Development:** Django, Vue.js, Python, JavaScript  
