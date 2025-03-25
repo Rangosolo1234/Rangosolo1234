@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Solomon Kipkirui  
 
-🚀 **Geospatialist | Software Engineer**  
+🚀 **Geospatialist | Software Engineer | UX Designer**  
 🎓 **Dekut-trained Geospatialist & ALX Certified Software Engineer**  
 
 With a dedication that verges on obsession, I am deeply passionate about **Geospatial Technology** and **Software Development**. My focus is on integrating geospatial solutions into software applications to solve real-world problems.  
