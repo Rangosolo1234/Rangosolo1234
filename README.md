@@ -26,9 +26,9 @@
 ## 📊 GitHub Stats & Activity  
 <p align="center">
   <a href="https://github.com/Rangosolo1234">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangosolo1234&theme=radical&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangosolo1234&show_icons=true&theme=radical&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangosolo1234&layout=compact&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangosolo1234&theme=blueberry&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangosolo1234&show_icons=true&theme=blueberry&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangosolo1234&layout=compact&theme=blueberry&hide_border=true"/>
   </a>
 </p>
 
@@ -46,4 +46,3 @@
     <img src="https://img.shields.io/badge/Email-kipkirui.solomon44%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
