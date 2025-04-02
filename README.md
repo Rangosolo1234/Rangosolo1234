@@ -10,7 +10,6 @@
 - 🗺️ **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
 - 🖥️ **Software Development:** Django, Vue.js, Python, JavaScript  
 - 🚀 **Current Work:** Developing a **GeoDjango Web App** to optimize parking spaces in Nakuru City  
-- 📊 **Researching:** The impact of geospatial tech on social media systems  
 
 ---
 
