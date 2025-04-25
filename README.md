@@ -12,24 +12,6 @@
 
 ---
 
-## ⚡ Featured Projects  
-🎯 **[Product API - Django Backend & Vue.js Frontend](https://github.com/Rangosolo1234/taifa_Products_api)** - API for **Taifa Orbit** online shop  
-🎯 **[GeoDjango Traffic & Parking System](https://github.com/your-repo)** - Smart parking system using traffic monitoring  
-🎯 **[Tech Squad App](https://github.com/your-repo)** - A social media platform for tech professionals with geospatial ranking  
-🎯 **[Django Web GIS for Law Firms](https://github.com/your-repo)** - Crime scene mapping & legal data management  
-🎯 **[Tea Farm Geospatial Analysis](https://github.com/your-repo)** - Helping farmers optimize tea production with mapping tools  
-
----
-
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <a href="https://github.com/Rangosolo1234">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangosolo1234&theme=blueberry&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangosolo1234&show_icons=true&theme=blueberry&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangosolo1234&layout=compact&theme=blueberry&hide_border=true"/>
-  </a>
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
