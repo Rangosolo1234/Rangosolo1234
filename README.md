@@ -19,7 +19,7 @@
   <a href="inkedin.com/in/solomonkipkirui/">
     <img src="https://img.shields.io/badge/LinkedIn-Solomon_Kipkirui-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/your-profile">
+  <a href="https://x.com/Rangosolo79">
     <img src="https://img.shields.io/badge/Twitter-%40Rangosolo-blue?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="mailto:kipkirui.solomon44@gmail.com">
