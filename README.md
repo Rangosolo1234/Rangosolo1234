@@ -8,7 +8,7 @@
 ## 🔥 About Me  
 - 🗺️ **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
 - 🖥️ **Software Development:** Django, Vue.js, Python, JavaScript , Flutter
-- 🚀 **Current Work:** Developing a **GeoDjango Web App** to optimize parking spaces in Nakuru City  
+
 
 ---
 
