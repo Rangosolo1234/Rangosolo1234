@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 My Web Portfolio  
-[Check out my portfolio here!](https://portfolio-website-one-snowy-40.vercel.app/)
+[Check out my portfolio here and send me a message😌!](https://portfolio-website-one-snowy-40.vercel.app/)
 
 ---
 
