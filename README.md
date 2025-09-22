@@ -1,6 +1,6 @@
 ## 🚀 Hey there! I'm **Solomon Kipkirui**
 
-### 🌍 Geospatialist | 💻 Software Engineer | 🎨 UX Designer
+### 🌍 GIS | 💻 Software Engineer | 🎨 UX Designer
 🔍 Passionate about integrating **Geospatial Technology** into **Software Applications** to solve real-world problems.   
 
 ---
