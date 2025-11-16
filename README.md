@@ -1,23 +1,23 @@
-## 🚀 Hey there! I'm **Solomon Kipkirui**
+## Hey there 👋! I'm **Solomon Kipkirui**
 
-### 🌍 GIS | 💻 Software Engineer | 🎨 UX Designer
-🔍 Passionate about integrating **Geospatial Technology** into **Software Applications** to solve real-world problems.   
-
----
-
-## 🔥 About Me  
-- 🗺️ **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
-- 🖥️ **Software Development:** Django, Vue.js, Python, JavaScript , Flutter
-
+### GIS | Software Engineer | UX Designer
+Passionate about integrating **Geospatial Technology** into **Software Applications** to solve real-world problems.   
 
 ---
 
-## 🌐 My Web Portfolio  
-[Check out my portfolio here and send me a message😌!](https://portfolio-website-one-snowy-40.vercel.app/)
+##  About Me  
+-  **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
+-  **Software Development:** Django, Vue.js, Python, JavaScript , Flutter
+
 
 ---
 
-## 🌐 Connect with Me  
+##  My Web Portfolio  
+[Check out my portfolio here and send me a message!](https://portfolio-website-one-snowy-40.vercel.app/)
+
+---
+
+##  Connect with Me  
 <p align="center">
   <a href="inkedin.com/in/solomonkipkirui/">
     <img src="https://img.shields.io/badge/LinkedIn-Solomon_Kipkirui-blue?style=for-the-badge&logo=linkedin"/>
