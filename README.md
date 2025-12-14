@@ -13,7 +13,7 @@ Passionate about integrating **Geospatial Technology** into **Software Applicati
 ---
 
 ##  My Web Portfolio  
-[Check out my portfolio here and send me a message!](https://portfolio-website-one-snowy-40.vercel.app/)
+[Check out my portfolio here and send me an email message, lets work on a project!](https://portfolio-website-one-snowy-40.vercel.app/)
 
 ---
 
