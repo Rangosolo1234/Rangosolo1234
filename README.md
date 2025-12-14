@@ -19,7 +19,7 @@ Passionate about integrating **Geospatial Technology** into **Software Applicati
 
 ##  Connect with Me  
 <p align="center">
-  <a href="inkedin.com/in/solomonkipkirui/">
+  <a href="https://www.linkedin.com/in/solomonkipkirui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Solomon_Kipkirui-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://x.com/Rangosolo79">
