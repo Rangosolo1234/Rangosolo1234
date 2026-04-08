@@ -1,6 +1,6 @@
 ## Hey there 👋! I'm **Solomon Kipkirui**
 
-### GIS | Software Engineering | UX Design |Remote Sensing
+### GIS | Software Engineering | UX Design | Remote Sensing
 Passionate about integrating **Geospatial Technology** into **Software Applications** to solve real-world problems.   
 
 ---
