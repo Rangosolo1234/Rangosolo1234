@@ -7,7 +7,7 @@ Passionate about integrating **Geospatial Technology** into **Software Applicati
 
 ##  About Me  
 -  **Geospatial Tech:** GIS, Remote Sensing, GeoDjango, Google Earth Engine  
--  **Software Development:** Django, Vue.js, Python, JavaScript , Flutter
+-  **Software Development:** Django,FastAPI,Express, Vue.js, React, Python, JavaScript, Dart, Flutter
 
 
 ---
